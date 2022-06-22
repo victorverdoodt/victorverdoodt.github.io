@@ -19,7 +19,7 @@ h6 {
 }
 
 a {
-    color: #3aaa64;
+    color: #0d6efd;
     -webkit-transition: all .4s ease-in-out;
     -moz-transition: all .4s ease-in-out;
     -ms-transition: all .4s ease-in-out;
@@ -29,7 +29,7 @@ a {
 a:hover {
     text-decoration: underline;
     color: #5f6b77;
-    color: #2d844e
+    color: #0d6efd
 }
 
 a:focus {
