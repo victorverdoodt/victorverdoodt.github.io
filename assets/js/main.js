@@ -37,7 +37,7 @@ jQuery(document).ready(function($) {
     GitHubCalendar("#github-graph", "IonicaBizau");
     /* Github Activity Feed - https://github.com/caseyscarborough/github-activity */
     GitHubActivity.feed({
-        username: "caseyscarborough",
+        username: "victorverdoodt",
         selector: "#ghfeed"
     });
 });
